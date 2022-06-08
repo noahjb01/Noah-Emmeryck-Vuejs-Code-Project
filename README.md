@@ -15,6 +15,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ```sh
 npm install
 npm install axios
+npm install --save axios vue-axios
 npm install gsap
 ```
 
