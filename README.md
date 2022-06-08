@@ -1,6 +1,6 @@
 # Noah et Emmeryck B3 Vuejs
 
-This template should help get you started developing with Vue 3 in Vite.
+Le but était de recupérer les données de l'API de l'Institut d'Art de Chicago pour en faire une sorte de répertoire dynamique à la fois visuel et instructif. Pouvant également servir pour de l'inspiration, la page contient des oeuvres aléatoires, nouvelles et souvent communes à découvrir à chaque rafraichissement de page.
 
 ## Recommended IDE Setup
 
