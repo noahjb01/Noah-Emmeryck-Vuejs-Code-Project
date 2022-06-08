@@ -16,7 +16,6 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 npm install
 npm install axios
 npm install gsap
-npm install 
 ```
 
 ### Compile and Hot-Reload for Development
